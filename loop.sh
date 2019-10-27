@@ -7,3 +7,8 @@ do
 	echo "$i is looped";
 done
 
+for i in "xuyangdalao";
+do
+	echo “$i”;
+done
+
